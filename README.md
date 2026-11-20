@@ -79,9 +79,13 @@ Use `best_of_n=3` to evaluate the simulator-selected best of three candidate tra
 
 The VLM appears as a historical comparator in the archived results and representation analyses. The trainable policies in this repository use the visual encoders listed above.
 
+## Acknowledgement
+
+HybridDriveVLA builds on the open-source contributions of [ReCogDrive](https://github.com/xiaomi-research/recogdrive) and [NAVSIM](https://github.com/autonomousvision/navsim).
+
 ## Citation
 
-If you use this release in your research, please cite [the HybridDriveVLA paper](https://arxiv.org/abs/2602.10719).
+If you find HybridDriveVLA useful in your research or applications, please consider giving this repository a star and citing our work using the BibTeX entry below.
 
 ```bibtex
 @article{ang2026representational,
@@ -92,5 +96,3 @@ If you use this release in your research, please cite [the HybridDriveVLA paper]
   year={2026}
 }
 ```
-
-Our work builds on [ReCogDrive](https://github.com/xiaomi-research/recogdrive) and [NAVSIM](https://github.com/autonomousvision/navsim). We thank their authors for making their work available.
