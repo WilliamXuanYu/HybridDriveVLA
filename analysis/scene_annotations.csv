@@ -1,0 +1,280 @@
+﻿token,scene_description,complexity,better_backbone,intersection_or_controlled_crossing,visible_crossroads,road_curvature,turn_or_lateral_maneuver,visible_traffic_cones,barrels_barriers_or_delineators,temporary_traffic_control,narrow_or_unclear_corridor,large_vehicle_occlusion,dense_or_close_traffic,reduced_visibility,pedestrian_near_driving_path,cyclist_or_motorcyclist
+08c1c8fbe5435208,Bridge traffic follows a sedan beside a hatched shoulder with flexible posts.,simple,VLM,0,0,0,0,0,1,0,0,0,0,0,0,0
+0f422a003dab525e,A broad multilane road bends left beside a railing.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+131ab0263b07507c,The route turns at a neighborhood junction into a street lined with parked cars.,complex,VLM,1,0,0,1,0,0,0,1,0,0,0,0,0
+14b6e7ce317d531f,Traffic approaches a signal with orange cones next to a van in the bike lane.,complex,VLM,1,0,0,0,1,0,0,0,0,0,0,0,0
+14cb24f3f9fc51c8,A sedan leads toward a signalized downtown junction and marked crossings.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+15f703b63e545d42,Parked cars line both edges of a two-way residential street.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+1975d15fde2955ff,A left turn crosses a signalized junction on wet pavement.,complex,VIT,1,0,0,1,0,0,0,0,0,0,1,0,0
+1bee33a086b25a5f,The road approaches downtown signals through visible haze over wet pavement.,complex,VIT,1,0,0,0,0,0,0,0,0,0,1,0,0
+1e6597b57a335949,A green-light crossroads has a dark vehicle beside the left approach.,complex,VLM,1,1,0,0,0,0,0,0,0,0,0,0,0
+1edf90bb34fc5d3f,Several vehicles occupy the downtown approach as the road bends beside parked cars.,complex,VLM,0,0,1,0,0,0,0,0,0,1,0,0,0
+239e3ed3199d5ae6,The route curves left across a wide signalized junction by the waterfront.,complex,VIT,1,0,0,1,0,0,0,0,0,0,0,0,0
+25226305bdff5efd,A white sedan leads into a marked downtown signal approach.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+28c74da2ea1d5629,A vehicle leads along a bridge with flexible posts and visible haze.,complex,VLM,0,0,0,0,0,1,0,0,0,0,1,0,0
+299e19fc72e65ac5,A truck leads along a straight industrial street beside a fenced warehouse.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+36a7254be1af5120,A motorcycle and cars share a wide signalized junction with a yellow box.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,1
+39640455f50c544c,Orange construction drums channel traffic around a pickup on a wide boulevard.,complex,VLM,0,0,0,0,0,1,1,0,0,0,0,0,0
+39e0bf171e6d5e88,A large bus directly ahead blocks much of the view along the curb lane.,complex,VLM,0,0,0,0,0,0,0,0,1,0,0,0,0
+3f5d3b68c1a156ed,A tree-lined divided road has clear lanes and a vehicle ahead.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+3fe4d3672285579c,Cars and a motorcycle occupy a yellow-box signalized junction.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,1
+40f09c66198258e6,A white sedan approaches downtown signals beside construction frontage.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+44cc84f91c6b5bf5,A dark vehicle occupies the left side of a green-light crossroads.,complex,VLM,1,1,0,0,0,0,0,0,0,0,0,0,0
+4fbfc7dc71db50e2,The multilane road sweeps left along a railing and double yellow edge lines.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+50e871f60296566b,A box truck fills the lane ahead on a wide boulevard.,complex,VIT,0,0,0,0,0,0,0,0,1,0,0,0,0
+52fb49766a14554c,An oncoming shuttle fills much of a narrow street lined with parked cars.,complex,VIT,0,0,0,0,0,0,0,1,1,0,0,0,0
+54e010de01625177,The road bends gently past a red pavement section under trees.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+59bb570b4290572d,Several vehicles and a school bus lead toward a signal along a downtown median.,complex,VIT,1,0,0,0,0,0,0,0,1,1,0,0,0
+5bdbe484641a55fa,Cones and barriers channel a divided-road approach beside a green median.,complex,VIT,0,0,0,0,1,1,1,0,0,0,0,0,0
+5ea36cebd2575b16,Two lanes of traffic queue toward a signal beside a green bike lane.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+61984566807c5b11,A shaded road bends along a grass verge with an adjacent vehicle.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+638b83e65dd259f8,A pickup blocks the view into a busy signal approach with adjacent traffic.,complex,VLM,1,0,0,0,0,0,0,0,1,1,0,0,0
+66d152defe7b59e2,A large vehicle leads toward a marked junction on a two-way street.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+6e983b745cb9535b,Parked cars and reduced contrast constrain the view along a wet urban street.,complex,VIT,0,0,0,0,0,0,0,1,0,0,1,0,0
+70679dba8428549e,A box truck approaches a stop-controlled junction beside a parking lot.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+7786cc7e34a05294,A box truck blocks much of the view at a stop-controlled crossing.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+7c541724eabb537a,The route bends into a narrow neighborhood street beside parked cars.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+7ed4005bb9385a16,Several lanes of dense downtown traffic fill the arterial.,complex,VIT,0,0,0,0,0,0,0,0,0,1,0,0,0
+7ed9d0ca20ac5e2c,A white sedan approaches a signal and crossing beside a fenced construction site.,complex,VLM,1,0,0,0,0,0,1,0,0,0,0,0,0
+7ffee2481b68517c,The route sweeps across a wide boulevard toward the lanes by a line of bollards.,complex,VLM,0,0,0,1,0,0,0,0,0,0,0,0,0
+80386d2e9c215d3b,The route bends through a marked junction with green bike markings and heavy haze.,complex,VLM,1,0,0,1,0,0,0,0,0,0,1,0,0
+817f460a4ad7577a,A white SUV leads along a marked multilane boulevard beside a concrete wall.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+81917c1e1a9b5cdc,A motorcycle and several cars occupy a green-light yellow-box junction.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,1
+88ac42d0eaca5c57,Orange drums constrict the lanes around a pickup on a boulevard.,complex,VLM,0,0,0,0,0,1,1,0,0,0,0,0,0
+8ba84ea2cc4a5ead,A shaded divided road has marked lanes and a vehicle ahead.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+8f0f7125a2e856b8,A sedan leads toward a broad downtown junction with dedicated turn lanes.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+92ebb72e83325bb1,The route crosses a raised marked crossing with a cyclist nearby.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,1
+93d5e0dd29bc5e7c,Vehicles approach a signal beside a van and orange cones in the bike lane.,complex,VLM,1,0,0,0,1,0,0,0,0,1,0,0,0
+9bd12765d98b514f,A pedestrian crosses the far side of a signalized neighborhood junction.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,1,0
+a417154cf84a5426,A white SUV leads along a wide marked boulevard with a concrete roadside wall.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+a93fa981f60d50af,A large work vehicle leads toward traffic signals on a two-way downtown road.,complex,VIT,1,0,0,0,0,0,0,0,1,0,0,0,0
+a99b2322093b5c13,The route crosses a yellow-box junction alongside a motorcycle and a red car.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,1
+afd632f043e35a49,An open bridge has clear lanes beside a hatched shoulder and flexible posts.,simple,VIT,0,0,0,0,0,1,0,0,0,0,0,0,0
+bd5e1c226cca5d3e,A left turn follows a marked crossing beside fenced construction and a barrier end.,complex,VIT,1,0,0,1,0,0,1,0,0,0,0,0,0
+c7c9121707745be3,A dark car crosses the turn path at a wet and hazy downtown junction.,complex,VIT,1,0,0,1,0,0,0,0,0,0,1,0,0
+cba63a3ef5bc51b3,A dark sedan leads along marked boulevard lanes below a pedestrian bridge.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+d3afcd1be60851a9,A left turn crosses a neighborhood crossroads into a street with curb parking.,complex,VLM,1,1,0,1,0,0,0,1,0,0,0,0,0
+d6bb49ff956f5b50,A boxed-in queue approaches a downtown signal with a rider ahead.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,1
+dbd898b3533f5ac5,The route arcs right at a shaded junction under a traffic light.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+df240e44ad0d5c3c,A stop-controlled crossing is partly obscured by pronounced haze.,complex,VLM,1,0,0,0,0,0,0,0,0,0,1,0,0
+e22fe7366ecd5c70,The route follows a vehicle along a bridge with flexible posts and reduced contrast.,complex,VLM,0,0,0,0,0,1,0,0,0,0,1,0,0
+e5e1dbb69578517b,"A left turn crosses a junction beside orange delineator posts, parked cars and a pedestrian.",complex,VLM,1,0,0,1,0,1,1,0,0,0,0,1,0
+e6dde7de045154c3,A box truck fills the approach at a stop-controlled crossing by a parking area.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+e76485315c2c5028,The wide boulevard sweeps right past glass buildings and a pedestrian bridge.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+e7da21c4ef4a5e3f,A sedan leads toward a wide downtown intersection across marked approach lanes.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+ee88f3dfa73a5f65,A dark car occupies the left side of a green-light crossroads.,complex,VLM,1,1,0,0,0,0,0,0,0,0,0,0,0
+ee9a7d622e33569a,A motorcycle and red car cross the yellow-box junction with the ego approach.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,1
+f3aaed259ab15dcc,Strong backlighting reduces contrast on a busy downtown signal approach.,complex,VLM,1,0,0,0,0,0,0,0,0,1,1,0,0
+f7d40806c7045d54,The route offsets around a curbside vehicle on a neighborhood street.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+fb54b190735e579f,A turn crosses marked lanes next to a fenced construction site and barrier end.,complex,VLM,1,0,0,1,0,0,1,0,0,0,0,0,0
+fe41706ad44652b0,A cyclist rides near the curb while vans travel ahead on an urban street.,complex,VLM,0,0,0,0,0,0,0,0,0,0,0,0,1
+fe9e76e6cac35fba,A marked neighborhood crossroads has a stop sign and curbside cars.,complex,VIT,1,1,0,0,0,0,0,0,0,0,0,0,0
+ff91d9e01e4259b1,The multilane road curves left along a railing toward glass buildings.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+ffcbea07e13e540d,A queue approaches downtown signals beside a van and orange cones in the bike lane.,complex,VLM,1,0,0,0,1,0,0,0,0,1,0,0,0
+01d061d9a66451ea,Several vehicles travel through a broad signalized boulevard crossing.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+024fd1e792395805,Downtown traffic approaches signals beside a marked bike lane and busy sidewalk.,complex,VIT,1,0,0,0,0,0,0,0,0,1,0,0,1
+04f548a98d695310,A dark sedan leads on a marked boulevard below a pedestrian bridge.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+059ce9cd10135396,A white utility vehicle leads along a two-way arterial with ample lane space.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+0695553567185c3c,Multiple vehicles approach a downtown signal and marked crossing.,complex,VIT,1,0,0,0,0,0,0,0,0,1,0,0,0
+07c46d77aba054ec,A shaded road curves gently beside a grass verge with a vehicle in the adjacent lane.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+0a746c037a905da7,A backlit urban road passes beneath a signal beside a green bike lane.,complex,VIT,1,0,0,0,0,0,0,0,0,0,1,0,0
+0aee34efc8445718,A sedan leads on a broad marked boulevard alongside other traffic.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+0b81fee06b6156d5,A dark car crosses the turn path at a wet and hazy downtown junction.,complex,VLM,1,0,0,1,0,0,0,0,0,0,1,0,0
+0bf961d076bc5a15,A pickup leads through a residential street narrowed by curb parking.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+0d2ff90baf395430,The route follows an urban arterial alongside a row of parked cars.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+0ffcae2811b257ee,A school bus crosses the far side of a marked junction as the route bends right.,complex,VIT,1,0,0,1,0,0,0,0,1,0,0,0,0
+10db4b6fe64b5c10,A white SUV crosses the turn path beside green bike markings in a hazy junction.,complex,VIT,1,0,0,1,0,0,0,0,0,0,1,0,0
+11714a81e1c45a54,A large bus occupies the right edge of a broad signalized crossing.,complex,VLM,1,1,0,0,0,0,0,0,1,0,0,0,0
+14f724bc59705bb4,The multilane road bends left beside a railing and double yellow edge lines.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+1559a9e324d6519d,A sedan leads across marked lines beneath a green signal.,complex,VIT,1,0,0,0,0,0,0,0,0,0,0,0,0
+1677503060a95d4a,A lightly trafficked two-way road bends right beside a sidewalk.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+1ce94ab175d8507a,The route turns left through a marked neighborhood crossroads with nearby traffic.,complex,VIT,1,1,0,1,0,0,0,0,0,0,0,0,0
+1e4df42d4cea5416,A left turn crosses a broad signalized junction with several vehicles ahead.,complex,VIT,1,1,0,1,0,0,0,0,0,1,0,0,0
+1e80c5febdd25875,A sedan leads next to a wide hatched median on a clearly marked arterial.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+205dd2add8b357f6,A backlit downtown arterial has clustered traffic ahead and beside the ego lane.,complex,VLM,0,0,0,0,0,0,0,0,0,1,1,0,0
+21f64c6cfe835cbe,A red vehicle leads toward signals on a multilane approach with turn arrows.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+23bd3a02e2855a28,Several close vehicles fill adjacent lanes on a wide commercial boulevard.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+247ae110b0c454cb,A pickup leads through a residential street narrowed by parked cars.,complex,VIT,0,0,0,0,0,0,0,1,0,0,0,0,0
+24b9908a6761529b,Cones and barriers channel the approach beside a median.,complex,VIT,0,0,0,0,1,1,1,0,0,0,0,0,0
+24edcd5e5b7f546a,A box truck obscures the view on a street lined tightly with parked cars.,complex,VIT,0,0,0,0,0,0,0,1,1,1,0,0,0
+2567ec8e92d05eb6,The route follows a sedan along a marked arterial beside a hatched median.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+25d6781d5063561a,A leftward path crosses a broad junction with stop control visible nearby.,complex,VLM,1,0,0,1,0,0,0,0,0,0,0,0,0
+26c48df074d151c6,The route approaches a signalized two-way urban junction behind a sedan.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+2a1cb4c27a4459a7,The route turns across wide crosswalk markings beside queued vehicles.,complex,VLM,1,0,0,1,0,0,0,0,0,1,0,0,0
+2a484ffd16785a64,A lateral offset passes curb parking on a residential street near a school bus.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+2c29f40d1a1d5b28,The route turns across a busy wet intersection with several vehicles in conflict areas.,complex,VLM,1,1,0,1,0,0,0,0,0,1,1,0,0
+2d578825c3a8565f,A left turn crosses a signalized junction facing a retaining wall.,complex,VIT,1,0,0,1,0,0,0,0,0,0,0,0,0
+30d5d8dfd52451a9,A white sedan approaches signals beside construction fencing and orange posts.,complex,VLM,1,0,0,0,0,1,1,0,0,0,0,0,0
+310fcecd57a95e06,"Close vehicles, curb parking and a cyclist share a constrained urban approach.",complex,VIT,0,0,0,0,0,0,0,1,0,1,0,0,1
+3380ae828ea75d1e,The route shifts left along a broad paved approach beneath an overhead walkway.,complex,VLM,0,0,0,1,0,0,0,0,0,0,0,0,0
+33f04aa1460b5dc5,A white SUV crosses the path at a hazy junction with green bike markings.,complex,VIT,1,0,0,1,0,0,0,0,0,0,1,0,0
+3651c6423caa5145,A white sedan leads toward a broad downtown junction with marked turn lanes.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+367967cea49c5dda,"A white SUV crosses the near side of a wet, low-contrast junction.",complex,VLM,1,0,0,1,0,0,0,0,0,0,1,0,0
+373abe824b3052a0,Temporary work signs and fencing constrain the available lanes near a pedestrian bridge.,complex,VIT,0,0,0,0,0,0,1,0,0,0,0,0,0
+3808a6ba716d5da1,Several lanes of traffic fill a commercial boulevard.,complex,VIT,0,0,0,0,0,0,0,0,0,1,0,0,0
+384def2e3f9657f6,A box truck blocks the forward view between marked green bike lanes.,complex,VIT,0,0,0,0,0,0,0,0,1,0,0,0,0
+389bfba2e25f581b,The route offsets around a curbside sedan on a narrow residential street.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+38d08753fa4651c2,Parked cars on both sides constrain a residential street behind a pickup.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+3a2616c871335ef4,The route approaches a downtown crossing on a street with green bike lanes.,complex,VIT,1,0,0,0,0,0,0,0,0,0,0,0,0
+3b1e0182cb145b8d,A leftward path enters a broad junction opposite a landscaped property.,complex,VLM,1,0,0,1,0,0,0,0,0,0,0,0,0
+3c303aa231e65a53,A sedan leads along a wet marked arterial with localized haze.,complex,VIT,0,0,0,0,0,0,0,0,0,0,1,0,0
+3cfa3f1b82885efa,Two lanes of traffic bunch together beside an urban curb.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+3d4616d64a4c5f53,A backlit downtown approach has queued cars and marked turn-only lanes.,complex,VLM,1,0,0,0,0,0,0,0,0,1,1,0,0
+3f265d778b65596b,The route hugs a curved corner at a junction beside a plaza.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+3ffbf8596e7655ec,A sedan leads toward a marked downtown signal approach past construction frontage.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+4104c86ea5425c40,An open bridge has a clear travel lane next to flexible shoulder posts.,simple,VIT,0,0,0,0,0,1,0,0,0,0,0,0,0
+41c7edfd989451cf,A large vehicle obscures part of a marked crossing between downtown buildings.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+42d1bc19fbc35965,Multiple vehicles travel along a broad boulevard beside orange roadside devices.,complex,VIT,0,0,0,0,0,1,0,0,0,1,0,0,0
+432598c0bda65445,The route passes under a traffic signal on a backlit street with a bike lane.,complex,VIT,1,0,0,0,0,0,0,0,0,0,1,0,0
+435eadb0f1fe5b49,A sedan leads past a temporary merge warning near a boulevard sidewalk.,complex,VIT,0,0,0,0,0,0,1,0,0,0,0,0,0
+4a1f69f3821e5ac5,Several vehicles approach downtown signals through low contrast.,complex,VIT,1,0,0,0,0,0,0,0,0,1,1,0,0
+4b55193d36c35e4a,A left turn crosses a signalized junction opposite a stone wall.,complex,VIT,1,0,0,1,0,0,0,0,0,0,0,0,0
+4bfd04f7517b5381,Traffic queues in adjacent lanes beside a downtown building frontage.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+4c5164f4b17d5581,A left turn crosses a broad signalized junction with traffic ahead.,complex,VLM,1,1,0,1,0,0,0,0,0,1,0,0,0
+4cb4fba2908b5dbb,A box truck leads toward a stop-controlled junction beside a parking lot.,complex,VIT,1,0,0,0,0,0,0,0,1,0,0,0,0
+4fc373052fb55899,The route turns right around a curved urban corner with a car on the cross street.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+505e82147a375933,Several vehicles queue in adjacent lanes along a downtown street.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+52f07f442baa5fe5,Slow-looking clustered traffic occupies both lanes beside a downtown building.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+53ed75baf8ef5022,The route bends past a marked crossing with wet pavement and people near the curb.,complex,VLM,1,0,0,1,0,0,0,0,0,0,1,1,0
+54292820fab05539,Parked and moving cars leave tight spacing between brick buildings.,complex,VIT,0,0,0,0,0,0,0,1,0,1,0,0,0
+5593db2f64115fbf,A school bus and vans occupy the approach at a downtown signal and crossing.,complex,VIT,1,0,0,0,0,0,0,0,1,1,0,0,0
+5671f9e107965dc3,A two-way downtown street runs between curb parking and a school bus in a side bay.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+58911c0c8e3f5906,The route bends away from the curb on a wet street with reduced contrast.,complex,VIT,0,0,0,1,0,0,0,0,0,0,1,0,0
+5c162b0d30f35b55,An open two-way road bends gently beside roadside plantings.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+5cdf559f99b859a4,The route turns through a constrained covered frontage with cars and people.,complex,VIT,0,0,0,1,0,0,0,1,0,0,0,1,0
+5f3fbfc334c0579c,The route shifts laterally among vehicles on a wide boulevard next to a barrier.,complex,VLM,0,0,0,1,0,0,0,0,0,1,0,0,0
+60a317c40ae656c0,A sedan leads around a gentle bend on a wet low-contrast downtown street.,complex,VIT,0,0,1,0,0,0,0,0,0,0,1,0,0
+60e8f2447c205324,Oncoming traffic passes flexible posts along a misty bridge approach.,complex,VIT,0,0,0,0,0,1,0,0,0,0,1,0,0
+61a236d173ef5055,A sedan leads along marked lanes on a wide commercial boulevard.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+63b91b18f46a5a96,Several cars pass through a broad signalized junction near pedestrians on the sidewalk.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+65b19795c92c5d77,A box truck dominates the view at a marked stop-controlled junction.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+667afe1f010351c5,The route turns across the edge of a marked junction beside a corner storefront.,complex,VIT,1,0,0,1,0,0,0,0,0,0,0,0,0
+69dcc80901db5a29,Several closely spaced vehicles fill the lanes on a downtown block.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+6ae2bcc5c2c050e4,Traffic bunches beyond a marked crossing near a bus and a green bike lane.,complex,VIT,1,0,0,0,0,0,0,0,0,1,0,0,0
+6f385b24c5a651bf,The route bends past curb parking on a residential street with weak markings.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+719a6c965dd55d00,Several vehicles pass through a wide boulevard crossing beside a curb island.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+74cc0056b2c05248,A right turn crosses broad pavement markings toward a curving road.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+75c7777c6f415535,A tree-lined road bends beyond a red pavement strip.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+7631ace833c857ba,A marked divided road continues straight through tree shade.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+7686d88b5ae4513e,The route bends along wet downtown pavement with low contrast and cars near the curb.,complex,VIT,0,0,0,1,0,0,0,0,0,0,1,0,0
+771c4e378bef58e4,A close curbside sedan and a vehicle ahead constrain the two-way street.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+774aad2507f75660,A utility vehicle leads on a wide marked arterial with an oncoming lane.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+782f0fff66145718,Heavy localized haze obscures part of a wide signalized junction.,complex,VLM,1,0,0,0,0,0,0,0,0,0,1,0,0
+7ae00644dbef537f,Several lanes of traffic fill the boulevard near commercial frontage.,complex,VIT,0,0,0,0,0,0,0,0,0,1,0,0,0
+7c94fd89afb95a88,The road bends beside a pedestrian crossing under a hotel bridge.,complex,VLM,0,0,1,0,0,0,0,0,0,0,0,1,0
+7df1cd3745675ca9,The route follows a bridge with flexible posts and oncoming traffic through haze.,complex,VLM,0,0,0,0,0,1,0,0,0,0,1,0,0
+7e6d49b500545236,A sedan leads along a boulevard that bends beside a retaining wall.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+7fcc4151553a50e8,Several vehicles travel close together on a broad downtown street.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+81f1c631c7325b0f,A turn begins at a neighborhood junction lined with parked cars.,complex,VIT,1,0,0,1,0,0,0,1,0,0,0,0,0
+824cd4fff1e25cb4,The route bends right at a tree-shaded signalized junction.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+85649e978e60550d,A turn crosses green bike markings beside temporary traffic signs and barricades.,complex,VIT,1,0,0,1,0,0,1,0,0,0,0,0,0
+88d08f76270d5e37,A broad commercial boulevard continues straight past a large roadside complex.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+89766121ee605be0,The route bends toward the curb along a low-contrast downtown street.,complex,VLM,0,0,0,1,0,0,0,0,0,0,1,0,0
+8a1fa33cd5d45d48,A dark sedan leads along marked lanes on a commercial boulevard.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+8aa8e3e16c035d5e,Vehicles converge at a wet signalized junction with low contrast.,complex,VLM,1,1,0,1,0,0,0,0,0,1,1,0,0
+8fb11d5808355072,Traffic follows marked lanes along a wide boulevard with roadside posts.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+92778c3bfcda566d,The route turns right at a curved corner with vehicles on the crossing street.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+93574a28917b5395,The route curves through a shaded junction with a traffic signal.,complex,VLM,1,0,1,1,0,0,0,0,0,0,0,0,0
+98c7a48dd75052ab,The route turns onto an urban block beside a corner storefront and curb parking.,complex,VIT,1,0,0,1,0,0,0,0,0,0,0,0,0
+9a357640ddd453d2,Parked cars line a narrow wet street between tall buildings.,complex,VLM,0,0,0,0,0,0,0,1,0,0,1,0,0
+9b5c31b36c5b5aa9,Parked cars flank both sides of a neighborhood street with weak lane markings.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+9b88dfaff2615c83,A large roadside vehicle limits the view on the approach to a marked crossing.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+9bb20085732d5f8d,A raised marked crossing has a cyclist near the approach and a car beyond.,complex,VIT,1,0,0,0,0,0,0,0,0,0,0,0,1
+9e3c4f7d62315b95,A backlit downtown signal approach has turn-only markings and multiple vehicles.,complex,VLM,1,0,0,0,0,0,0,0,0,1,1,0,0
+9ed452bde7335185,A vehicle leads along a narrow brick-lined street with parked cars.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+9ee3c3a666d35a5c,Traffic approaches a signalized junction with several directional lanes.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+a091a6a6033c559f,A box truck crosses a broad signalized downtown junction on wet pavement.,complex,VLM,1,1,0,0,0,0,0,0,1,0,1,0,0
+a0f695da4a815955,A sedan leads through a narrow brick-lined street beside parked vehicles.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+a2701552b0f95f7b,A sedan follows a marked approach toward traffic signals beside curb parking.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+a6b34e50b7995664,A close SUV waits before a signalized junction while cross traffic passes.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,0
+a7d3e71b8ca456a9,A white SUV leads along clear multilane boulevard markings beside a concrete wall.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+a9c368a110585b1a,The road bends along a shaded grass verge with a vehicle in the adjacent lane.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+ab19982dd5cd57ac,A box truck directly ahead limits forward visibility between marked bike lanes.,complex,VIT,0,0,0,0,0,0,0,0,1,0,0,0,0
+ab9d0f7542805d20,Multiple vehicles occupy adjacent lanes along a downtown block.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+ae821f2ac8d55180,A white sedan leads toward signals beside a fenced construction site and green bike lane.,complex,VLM,1,0,0,0,0,0,1,0,0,0,0,0,0
+af064082155f5dc0,Oncoming traffic and rows of parked cars constrain a residential street.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+b0598da891205aa3,Vehicles cluster around columns and pedestrian space in a covered drop-off area.,complex,VIT,0,0,0,1,0,0,0,1,0,1,0,0,0
+b0a6370d836a59ed,A right turn crosses a neighborhood crossroads with traffic near the turn exit.,complex,VIT,1,1,0,1,0,0,0,0,0,0,0,0,0
+b1ae78ae6e005119,A shaded road bends toward a stop-controlled crossing and a painted median.,complex,VIT,1,0,1,0,0,0,0,0,0,0,0,0,0
+b462af5600bf5f88,A large oncoming van occupies part of a shaded curving road.,complex,VLM,0,0,1,0,0,0,0,0,1,0,0,0,0
+b4c5bd35a81f517e,A sedan leads along a wide marked boulevard below a pedestrian bridge.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+b696510357665996,Parked vehicles line both sides of a gently curving two-way road.,complex,VLM,0,0,1,0,0,0,0,1,0,0,0,0,0
+b770bd5be66d5339,Several cars approach a broad signalized junction along a roadside barrier.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+b8ca1857a0f75fb4,A marked crossing leads toward cones and barriers beside a landscaped median.,complex,VIT,1,0,0,0,1,1,1,0,0,0,0,0,0
+b937ec3b9c845118,A box truck leads toward a stop-controlled junction beside a parking lot.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+bb5b44d240945ed0,A dark vehicle leads toward overhead traffic signals along a marked two-way street.,complex,VIT,1,0,0,0,0,0,0,0,0,0,0,0,0
+bd1e37aab1c7530f,A sedan leads along a gently curving boulevard beside a retaining wall.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+c091585789c859db,A curbside delivery truck and parked vehicles constrain a neighborhood street.,complex,VLM,0,0,0,0,0,0,0,1,1,0,0,0,0
+c0e14f1288ca5066,A road-work warning and striped barricades sit beside a bend in a two-way street.,complex,VLM,0,0,0,1,0,0,1,0,0,0,0,0,0
+c39af88ae1be534a,A sedan leads along a boulevard past a raised median and overhead bridge.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+c3ace87d2f985eaa,A truck and a car encroaching on bike-lane markings constrain a downtown lane.,complex,VIT,0,0,0,0,0,0,0,0,1,1,0,0,0
+c3d6016d73645955,Moderately close traffic occupies multiple lanes of a wide commercial boulevard.,complex,VIT,0,0,0,0,0,0,0,0,0,1,0,0,0
+c42677f7e56f5c3f,Several vehicles travel close together along a boulevard beside a fence.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+c80bc7cdeb5e50f0,A sedan follows a tight path between planters and vehicles under a drop-off canopy.,complex,VLM,0,0,0,1,0,0,0,1,0,1,0,0,0
+c8507cfbe8575463,A sedan approaches a downtown junction with bike symbols and crossing lanes.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+c9f514edbbb55dd9,A sedan leads along a broad boulevard toward a pedestrian bridge.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+ccd74f5377b85a36,A large vehicle constrains the route as it bends along a narrow brick-lined street.,complex,VIT,0,0,0,1,0,0,0,1,1,0,0,0,0
+cd72b9f6b03f5f41,"A van leads through a narrow, wet, low-contrast street lined with parked cars.",complex,VIT,0,0,0,0,0,0,0,1,0,0,1,0,0
+d3322747793a5dda,A lead vehicle travels along a bridge beside flexible posts and visible haze.,complex,VLM,0,0,0,0,0,1,0,0,0,0,1,0,0
+d5a0b92fbf8b51df,The route turns left across a wide signalized approach near a landscaped median.,complex,VLM,1,0,0,1,0,0,0,0,0,0,0,0,0
+d68c7a7e02265029,The route crosses a signalized junction facing a stone retaining wall.,complex,VIT,1,0,0,1,0,0,0,0,0,0,0,0,0
+d796c1764d575153,A white SUV leads along a marked boulevard beside a concrete wall.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+d7c78dbb6fb25194,A sedan leads over broad transverse markings on an open arterial.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+d8320bd0be9a50b3,A right turn crosses a constrained junction with close delivery and opposing vehicles.,complex,VIT,1,0,0,1,0,0,0,1,1,1,0,0,0
+d852a7b32d6c5448,The road sweeps left beside a railing and glass buildings.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+d91f0c28683e52da,The route arcs among nearby vehicles on wet pavement beneath an overhead structure.,complex,VIT,0,0,0,1,0,0,0,0,0,1,1,0,0
+e59a5171c33c5af9,The route curves by pillars and pedestrians in a covered pickup area.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,1,0
+e6c36a6be3c75127,The route turns across a marked neighborhood crossroads into a street with parked cars.,complex,VIT,1,1,0,1,0,0,0,1,0,0,0,0,0
+ea60e66a13335f6e,Several vehicles occupy a marked downtown signal approach beside a bike lane.,complex,VIT,1,0,0,0,0,0,0,0,0,1,0,0,0
+eaa64f296ff85b61,Cones and barriers narrow the road ahead on a divided approach.,complex,VIT,0,0,0,0,1,1,1,0,0,0,0,0,0
+eae658a09ef152a9,Orange and white barriers constrain a lane alongside roadworks.,complex,VLM,0,0,0,0,0,1,1,0,0,0,0,0,0
+ed98d12e4c99536d,A shaded road bends next to a grass verge with a nearby vehicle.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+efc8eef1e7b551d9,The route shifts around a curbside vehicle on a two-way urban street.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+f1dabe118a6955d6,Several vehicles approach a broad signalized junction with orange roadside devices.,complex,VLM,1,0,0,0,0,1,0,0,0,1,0,0,0
+f1ef98a6ff94525c,An open two-way road bends gently beside landscaped planting.,simple,VIT,0,0,1,0,0,0,0,0,0,0,0,0,0
+f769ef75631451c8,"Concrete barriers, orange devices and wet pavement constrain a construction corridor.",complex,VIT,0,0,0,0,0,1,1,1,0,0,1,0,0
+f8191af1aab95906,A driveway bends through a drop-off area with multiple closely spaced cars.,complex,VLM,0,0,0,1,0,0,0,1,0,1,0,0,0
+fb6e02b5752e5754,A white SUV leads along a wide boulevard bordered by a concrete wall.,simple,VIT,0,0,0,0,0,0,0,0,0,0,0,0,0
+fc1b6762387f5209,Orange and white construction barriers narrow the travel corridor.,complex,VLM,0,0,0,0,0,1,1,0,0,0,0,0,0
+fda0145d54065b7c,The route approaches an overhead signal on a two-way street with curb parking.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+fdc43c8424a256ce,A narrow access road runs beside a building and parking area.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+fdde37fbe3d35bef,The route bends through a marked neighborhood crossing beside rows of parked cars.,complex,VLM,1,1,0,1,0,0,0,1,0,0,0,0,0
+15bc35249e5656b6,A sedan leads around pillars and a freestanding sign in a covered drop-off area.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,0,0
+1766fa78fd10576e,A close lead vehicle and oncoming traffic share a two-way street beside a building.,complex,VLM,0,0,0,0,0,0,0,1,0,1,0,0,0
+1fd8eed8897a5667,Closely spaced vehicles fill adjacent lanes on a broad boulevard.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+2251b1d81d0051c1,A large box truck blocks the forward view on a multilane boulevard.,complex,VIT,0,0,0,0,0,0,0,0,1,0,0,0,0
+2f05406bcdd55a21,A box truck leads along an urban street tightly lined with parked cars.,complex,VIT,0,0,0,0,0,0,0,1,1,0,0,0,0
+354ac12e8832565a,A pickup and curbside vehicles leave little clearance on a neighborhood street.,complex,VIT,0,0,0,0,0,0,0,1,0,1,0,0,0
+35f13a6de1575fdc,A close sedan leads a queue toward a marked signalized approach.,complex,VIT,1,0,0,0,0,0,0,0,0,1,0,0,0
+3d86e3fc3499578f,Several pedestrians cross the ego approach on a marked crosswalk at a signal.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,1,0
+407b876e623a5c51,A school bus spans the marked crossing with its side stop arm visible.,complex,VIT,1,0,0,0,0,0,0,0,1,0,0,1,0
+43ce8a5ddf8f5541,A sedan approaches a signal on a heavily backlit urban road.,complex,VLM,1,0,0,0,0,0,0,0,0,0,1,0,0
+45c4158a235e514a,A car is present in a broad signalized crossroads viewed from the stop line.,complex,VLM,1,1,0,0,0,0,0,0,0,0,0,0,0
+47b8a869ffed5965,A close sedan leads toward downtown signals beside curbside vehicles.,complex,VIT,1,0,0,0,0,0,0,0,0,1,0,0,0
+4ad7866306895cca,A box truck fills much of the stop-controlled approach at a marked crossing.,complex,VLM,1,0,0,0,0,0,0,0,1,0,0,0,0
+5d7eedc503ef575c,A dark sedan leads over broad transverse markings on an open arterial.,simple,VLM,0,0,0,0,0,0,0,0,0,0,0,0,0
+67d74f48ba2a548e,A sedan turns through a covered drop-off area near several pedestrians.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,1,0
+680f4753a59c5a24,The route approaches a signal in traffic beside a stopped van and orange cones.,complex,VLM,1,0,0,0,1,0,0,0,0,1,0,0,0
+6fdea0636809523e,A sedan leads toward a broad marked downtown junction.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+76dd2e9ad6f753b8,A box truck fills most of the lane ahead on a wide boulevard.,complex,VIT,0,0,0,0,0,0,0,0,1,0,0,0,0
+7b4fca2db9255996,A sedan leads along a gentle boulevard bend beside a retaining wall.,simple,VLM,0,0,1,0,0,0,0,0,0,0,0,0,0
+80199eddf2cc590f,Several cars and an emergency vehicle approach a broad signalized junction.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+83c72c93de355a6b,A marked crossing has a center pedestrian sign and a delivery vehicle at the curb.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+8f4e4b81b2b15283,"A backlit signal approach has a queue, broad crossings and a person near the corner.",complex,VLM,1,0,0,0,0,0,0,0,0,1,1,1,0
+91afe72955de5b85,A close SUV waits at a broad signalized junction with crossing traffic.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,0
+9c45919236c051c0,An emergency vehicle and several cars occupy the lanes approaching a signal.,complex,VLM,1,0,0,0,0,0,0,0,0,1,0,0,0
+a2c3aa64478d533b,A white sedan waits or moves slowly at a marked signalized junction in strong shadow.,complex,VLM,1,0,0,0,0,0,0,0,0,0,1,0,0
+a7f5d22750b75466,A tight queue fills a narrow brick-lined street beside parked cars.,complex,VLM,0,0,0,0,0,0,0,1,0,1,0,0,0
+bb1650a0e72e5b7d,A close SUV is at the stop line of a broad junction with cross traffic.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,0
+bd0f9349cc1053a3,A delivery truck and vans restrict clearance amid opposing traffic.,complex,VLM,0,0,0,0,0,0,0,1,1,1,0,0,0
+c35f0df7bfdb5140,A close lead vehicle and oncoming cars share a two-way street beside a building.,complex,VLM,0,0,0,0,0,0,0,1,0,1,0,0,0
+c493172b908c5df9,A close SUV waits at a signalized junction as vehicles cross ahead.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,0
+c5510354351d5d5e,Several cars travel in close proximity on an urban boulevard.,complex,VIT,0,0,0,0,0,0,0,0,0,1,0,0,0
+e6fd7389cbfb5943,A close curbside sedan and a utility vehicle constrain a two-way neighborhood street.,complex,VLM,0,0,0,0,0,0,0,1,0,0,0,0,0
+ec097e80d5565caa,A sedan leads in clustered downtown traffic beside a curbside sign.,complex,VLM,0,0,0,0,0,0,0,0,0,1,0,0,0
+eccba8e0ad6651c3,A sedan follows an emergency vehicle that blocks much of the view along a downtown block.,complex,VLM,0,0,0,0,0,0,0,0,1,1,0,0,0
+eff63ffe642d5409,A sedan follows a covered drop-off lane beside columns and pedestrians.,complex,VLM,0,0,0,1,0,0,0,1,0,0,0,1,0
+f1106b0f8f745eae,A sedan approaches a downtown junction with bike and crossing markings.,complex,VLM,1,0,0,0,0,0,0,0,0,0,0,0,0
+fb2a6578f15d5ff5,A truck and parked cars narrow the visible corridor near an orange cone.,complex,VLM,0,0,0,0,1,0,0,1,1,1,0,0,0
+fdb658e4941855a3,A sedan approaches a large emergency vehicle in close downtown traffic.,complex,VLM,0,0,0,0,0,0,0,0,1,1,0,0,0
+fefc295622155532,A close lead SUV is stopped or slow at a broad signalized junction with cross traffic.,complex,VLM,1,1,0,0,0,0,0,0,0,1,0,0,0

@@ -74,6 +74,7 @@ Use `best_of_n=3` to evaluate the simulator-selected best of three candidate tra
 ## Analysis
 
 - [Archived NAVSIM ablation results](analysis/ablation/README.md)
+- [Annotations for 279 comparison scenes](analysis/scene_annotations.csv) include the NAVSIM scene token, complexity label, better-performing backbone and scene attributes.
 - [SAE training, re-evaluation, weights and figures](analysis/sae/README.md)
 
 The VLM appears as a historical comparator in the archived results and representation analyses. The trainable policies in this repository use the visual encoders listed above.
