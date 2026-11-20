@@ -10,15 +10,13 @@ For the original VLM-based planner, its pretrained checkpoints and reproduction 
 
 Download the checkpoints from [Hugging Face](https://huggingface.co/XuanYuer/HybridDriveVLA). The policy table covers backbones with both IL and RL checkpoints.
 
-| Encoder | `BACKBONE` | IL checkpoints | RL checkpoints |
-| --- | --- | --- | --- |
-| ResNet-50 | `resnet50` | `resnet_50_8237.ckpt` | `resnet50_grpo_8602.ckpt` |
-| ResNet-101 | `resnet101` | `resnet_101_8463.ckpt` | `resnet101_grpo_8769.ckpt` |
-| EVA-CLIP Base/16 | `eva_clip_base` | `eva_clip_base_8466.ckpt` | `eva_clip_base_grpo.ckpt` |
-| ViT-B/16 | `vit_b_16` | `vit_b16_joint_il.ckpt`, `vit_b16_diffusion_finetuned_il.ckpt` | `vit_b16_grpo_8821.ckpt` |
-| ViT-L/16 | `vit_large` | `vit_l_8856.ckpt` | `vit_l_grpo_1.ckpt`, `vit_l_grpo_8883.ckpt` |
-
-[The checkpoint manifest](checkpoints/manifest.csv) gives each filename, training stage, source, size and SHA-256. The exports retain the current backbone and diffusion planner tensors. Optimizer state, trainer metadata and embedded frozen reference-policy copies were removed. For retraining, supply an IL checkpoint as the DiffGRPO starting and reference policy. The source `vit_l_grpo_8821.ckpt` was identified as torchvision ViT-B/16 from its parameter names and is exported as `vit_b16_grpo_8821.ckpt`.
+| Encoder | `BACKBONE` | Default pretrained backbone | IL checkpoints | RL checkpoints |
+| --- | --- | --- | --- | --- |
+| ResNet-50 | `resnet50` | [TorchVision ImageNet-1K V1](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.resnet50.html) | `resnet_50_8237.ckpt` | `resnet50_grpo_8602.ckpt` |
+| ResNet-101 | `resnet101` | [TorchVision ImageNet-1K V1](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.resnet101.html) | `resnet_101_8463.ckpt` | `resnet101_grpo_8769.ckpt` |
+| EVA-CLIP Base/16 | `eva_clip_base` | [timm EVA02 CLIP](https://huggingface.co/timm/eva02_base_patch16_clip_224.merged2b) | `eva_clip_base_8466.ckpt` | `eva_clip_base_grpo.ckpt` |
+| ViT-B/16 | `vit_b_16` | [TorchVision ImageNet-1K V1](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.vit_b_16.html) | `vit_b16_joint_il.ckpt`, `vit_b16_diffusion_finetuned_il.ckpt` | `vit_b16_grpo_8821.ckpt` |
+| ViT-L/16 | `vit_large` | [timm ViT-L/16 AugReg](https://huggingface.co/timm/vit_large_patch16_224.augreg_in21k_ft_in1k) | `vit_l_8856.ckpt` | `vit_l_grpo_1.ckpt`, `vit_l_grpo_8883.ckpt` |
 
 Run these commands from the repository root to download just the ResNet-50 checkpoints used below:
 
