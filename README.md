@@ -1,6 +1,6 @@
 # HybridDriveVLA
 
-[From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving](https://arxiv.org/abs/2602.10719) (NeurIPS 2026)
+[From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving](https://arxiv.org/abs/2602.10719) 
 
 This initial release contains the vision-only backbone experiments and representation analyses from the paper. The encoders use the front camera at 224×224 and share a NAVSIM pixel cache. The code supports imitation learning (IL), Diffusion-GRPO reinforcement learning (RL), PDM evaluation and intermediate feature export. We are organizing the remaining materials and will update the repository incrementally.
 
