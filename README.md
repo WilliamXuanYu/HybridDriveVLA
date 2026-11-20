@@ -81,13 +81,16 @@ The VLM appears as a historical comparator in the archived results and represent
 
 ## Citation
 
-For this release, please cite [the HybridDriveVLA paper](https://arxiv.org/abs/2602.10719). For work based on the original planner, please also cite ReCogDrive.
+If you use this release in your research, please cite [the HybridDriveVLA paper](https://arxiv.org/abs/2602.10719).
 
 ```bibtex
-@article{li2025recogdrive,
-  title={ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving},
-  author={Li, Yongkang and Xiong, Kaixin and Guo, Xiangyu and Li, Fang and Yan, Sixu and Xu, Gangwei and Zhou, Lijun and Chen, Long and Sun, Haiyang and Wang, Bing and others},
-  journal={arXiv preprint arXiv:2506.08052},
-  year={2025}
+@article{ang2026representational,
+  title={From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving},
+  author={Ang, Sining and Yang, Yuguang and Dang, Chenxu and Chen, Canyu and Chi, Cheng and Liu, Haiyan and Mao, Xuanyao and Bao, Jason and Sun, Bingchuan and Wang, Yan and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2602},
+  year={2026}
 }
 ```
+
+Our work builds on [ReCogDrive](https://github.com/xiaomi-research/recogdrive) and [NAVSIM](https://github.com/autonomousvision/navsim). We thank their authors for making their work available.
