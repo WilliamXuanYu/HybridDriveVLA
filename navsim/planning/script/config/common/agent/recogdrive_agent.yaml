@@ -1,0 +1,24 @@
+# Modified for the ReCogDrive visual backbone ablation release.
+_target_: navsim.agents.recogdrive.recogdrive_agent.ReCogDriveAgent
+_convert_: all
+
+trajectory_sampling:
+  _target_: nuplan.planning.simulation.trajectory.trajectory_sampling.TrajectorySampling
+  time_horizon: 4
+  interval_length: 0.5
+
+checkpoint_path: ''
+vlm_path: ''
+vlm_type: resnet34
+vlm_size: null
+cam_type: single
+dit_type: small
+sampling_method: ddim
+cache_mode: false
+cache_hidden_state: false
+metric_cache_path: ''
+reference_policy_checkpoint: ''
+grpo: false
+lr: 1e-4
+backbone_lr: 1e-5
+train_backbone: false

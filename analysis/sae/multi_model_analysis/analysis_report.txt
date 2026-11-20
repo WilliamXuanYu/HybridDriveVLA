@@ -1,0 +1,84 @@
+================================================================================
+多模型表征空间分析报告
+生成时间: 2026-01-09 15:47:01
+================================================================================
+
+1. 模型信息
+----------------------------------------
+  - VLM (RecogDrive)
+    路径: Archived ReCogDrive VLM mapped features
+  - ViT-Large
+    路径: Feature/VIT_large/recogdrive_mapped_features
+  - ResNet-101
+    路径: Feature/Resnet101/recogdrive_mapped_features
+  - EVA-CLIP
+    路径: Feature/eva_clip/recogdrive_mapped_features
+
+2. CKA 相似度矩阵
+----------------------------------------
+                 VLM       ViT    ResNet       EVA
+VLM           1.0000    0.2125    0.2243    0.2217
+ViT           0.2125    1.0000    0.8662    0.9122
+ResNet        0.2243    0.8662    1.0000    0.8505
+EVA           0.2217    0.9122    0.8505    1.0000
+
+3. CKA 相似度排名（从高到低）
+----------------------------------------
+  1. ViT vs EVA: 0.9122
+  2. ViT vs ResNet: 0.8662
+  3. ResNet vs EVA: 0.8505
+  4. VLM vs ResNet: 0.2243
+  5. VLM vs EVA: 0.2217
+  6. VLM vs ViT: 0.2125
+
+4. PCA + CCA 分析
+----------------------------------------
+  VLM vs ViT:
+    样本数: 12146
+    维度: 384 vs 384
+    谱图: cca_spectrum_VLM_ViT.png
+  VLM vs ResNet:
+    样本数: 12146
+    维度: 384 vs 384
+    谱图: cca_spectrum_VLM_ResNet.png
+  VLM vs EVA:
+    样本数: 12146
+    维度: 384 vs 384
+    谱图: cca_spectrum_VLM_EVA.png
+  ViT vs ResNet:
+    样本数: 12146
+    维度: 384 vs 384
+    谱图: cca_spectrum_ViT_ResNet.png
+  ViT vs EVA:
+    样本数: 12146
+    维度: 384 vs 384
+    谱图: cca_spectrum_ViT_EVA.png
+  ResNet vs EVA:
+    样本数: 12146
+    维度: 384 vs 384
+    谱图: cca_spectrum_ResNet_EVA.png
+
+5. SAE 共享/特有子空间分析
+----------------------------------------
+  VLM vs ViT:
+    模型: sae_model_VLM_ViT.pt
+    图表: sae_analysis_VLM_ViT.png
+  VLM vs ResNet:
+    模型: sae_model_VLM_ResNet.pt
+    图表: sae_analysis_VLM_ResNet.png
+  VLM vs EVA:
+    模型: sae_model_VLM_EVA.pt
+    图表: sae_analysis_VLM_EVA.png
+  ViT vs ResNet:
+    模型: sae_model_ViT_ResNet.pt
+    图表: sae_analysis_ViT_ResNet.png
+  ViT vs EVA:
+    模型: sae_model_ViT_EVA.pt
+    图表: sae_analysis_ViT_EVA.png
+  ResNet vs EVA:
+    模型: sae_model_ResNet_EVA.pt
+    图表: sae_analysis_ResNet_EVA.png
+
+================================================================================
+分析完成
+================================================================================
